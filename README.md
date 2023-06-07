@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Project 0x00. Shell, basics
+This is alx software engineering repo for project 0x00-shell_basics.
