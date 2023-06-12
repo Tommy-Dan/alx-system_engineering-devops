@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Write if it does'nt exist, overwrite if it exist" > ls_cwd_content
