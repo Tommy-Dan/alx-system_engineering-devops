@@ -1,2 +1,2 @@
 #!/bin/bash
-echo TRUEKNOWLEDGE="$((128+10))"
+export TRUEKNOWLEDGE="$(( 89 + 128 ))"
